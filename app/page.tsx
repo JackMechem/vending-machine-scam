@@ -57,7 +57,7 @@ const Home = () => {
 				>
 					Pay With Card
 				</Link>
-				<ApplePayButton />
+				<ApplePayButton href="/scammed" />
 			</div>
 		</div>
 	);
